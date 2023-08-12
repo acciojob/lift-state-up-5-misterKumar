@@ -1,1 +1,16 @@
-
+.parent{
+    padding: 10px;
+    margin: 5px;
+}
+.child{
+    padding: 10px;
+    margin: 5px;
+}
+.in{
+   
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+    width: 80px;
+}
